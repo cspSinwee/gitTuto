@@ -12,6 +12,8 @@ namespace vsProject
         {
             Console.WriteLine("hello 1");
             Console.WriteLine("Hello 2");
+
+            Console.WriteLine("issue");
         }
     }
 }
