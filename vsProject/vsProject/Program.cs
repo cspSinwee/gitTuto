@@ -10,6 +10,7 @@ namespace vsProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello 1");
         }
     }
 }
