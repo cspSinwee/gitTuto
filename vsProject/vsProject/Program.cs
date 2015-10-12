@@ -11,6 +11,7 @@ namespace vsProject
         static void Main(string[] args)
         {
             Console.WriteLine("hello 1");
+            Console.WriteLine("Hello 2");
         }
     }
 }
